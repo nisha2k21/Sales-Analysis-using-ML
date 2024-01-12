@@ -1,3 +1,3 @@
 # Sales-Analysis-using-ML
 
-Nisha Kumari-nisha2k21gce@gmail.com
+Nisha Kumari -nisha2k21gce@gmail.com
